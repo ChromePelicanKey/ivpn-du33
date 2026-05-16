@@ -1,4 +1,4 @@
-
+IVPN custom Plugin: WireGuard-support & auto-connect offers the most advanced IVPN plugin, with WireGuard-support and auto-connect. Ideal for users who value privacy and security.
 
 
 
